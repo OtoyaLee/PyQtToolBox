@@ -1,0 +1,2 @@
+# PyQtToolBox
+pyqt+adb+opencv
