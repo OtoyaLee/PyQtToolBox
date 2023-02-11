@@ -1,6 +1,6 @@
 # PyQtToolBox
 pyqt+adb+opencv
 
-## *requirement**
+## **requirement**
 
     PyQt-python
